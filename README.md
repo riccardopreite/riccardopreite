@@ -31,8 +31,7 @@ I would define myself as a person who love to get challenged, discover new thing
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/riccardo-preite-550969212/).
 <!--- [![Instagram](https://i.imgur.com/kpx2bmH.png) Instagram]]()-->
 - Email: riccardo.preite.10@gmail.com
-## Portfolio ⚡
-In the following section I'll list some of my old project, both in team or single person work.
+
 ## Group Portfolio ⚡
 
 ### [SumAE](https://github.com/freek9807/SumAE) 
