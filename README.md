@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello everyone 👋 and welcome to my GitHub profile 
+# Hello everyone 👋 and welcome to my GitHub profile!
 
 My name is Riccardo Preite and I'm a student of Computer Science at [University of Bologna](https://www.unibo.it/en) where I'm near to the end of my studies in Computer Science master.
 I also got my bachelor's degree in Bologna where I developed, as thesis, an architecture to build web things from API and manipulate existing Things to create simple personal programs: [Open-API-WoT-Architecture](https://github.com/riccardopreite/Open-API-WoT-Architecture).
