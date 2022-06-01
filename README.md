@@ -28,7 +28,7 @@ In the last period I have started to study many different fields: First I discov
 I would define myself as a person who love to get challenged, discover new things or techniques is something I'm passionated and not only about IT, my favorite hobbies are engine(mechanic) and sports and thanks to them I learned to study the environment around to me and find a way to solve the problem by my own.
 
 ## Contacts 📫
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/riccardo-preite-550969212/).
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/riccardo-preite-550969212/)
 <!--- [![Instagram](https://i.imgur.com/kpx2bmH.png) Instagram]]()-->
 - Email: riccardo.preite.10@gmail.com
 
