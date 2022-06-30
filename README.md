@@ -67,7 +67,7 @@ Collaborators:
 ### Single person Portfolio ⚡
 
 ### [Knowledge_Augmented_Deep_Learning](https://github.com/riccardopreite/Knowledge_Augmented_Deep_Learning)
-This project was about embedding a Knowledge graph inside an existing model, tested on VGCN and KEPLER. Unfortunately, I don't have anymore access to the second part of the project where I succesfully embedded the knowledge graph into a model.
+Embedding of a Knowledge graph inside an existing model, tested on VGCN-BERT and KEPLER. Unfortunately, I don't have anymore access to the second part of the project where I succesfully embedded the knowledge graph into a model.
 
 ### [NLP_clustering ](https://github.com/riccardopreite/NLP_clustering)
 Design and development of a model able to found similar group of business activities, from YELP dataset, based on Categories and attributes.
