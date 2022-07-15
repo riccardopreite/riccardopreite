@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hello everyone 👋 and welcome to my GitHub profile!
 
-My name is Riccardo Preite and I'm a student of Computer Science at [University of Bologna](https://www.unibo.it/en) where I'm near to the end of my studies in Computer Science master.
-I also got my bachelor's degree in Bologna where I developed, as thesis, an architecture to build web things from API and manipulate existing Things to create simple personal programs: [Open-API-WoT-Architecture](https://github.com/riccardopreite/Open-API-WoT-Architecture).
+My name is Riccardo Preite and I have an IT degree at [University of Bologna](https://www.unibo.it/en).
 
-## On going... 🔭
-I'm currently working on my master thesis about a sustainable project at [University of Bologna](https://www.unibo.it/en).
+## Thesis 🔭
+- Bachelor: Design and development of an architecture to publish web things from API and manipulate existing Things to create personal programs: [Open-API-WoT-Architecture](https://github.com/riccardopreite/Open-API-WoT-Architecture).
+- Master: Design and development of a Deep Neural Network feeded with [UNSDGs](https://unsdg.un.org/) data to compute the [SDI](https://www.sustainabledevelopmentindex.org/about) and make prediction of UNSDGs for a sustainable development: [SRAE](https://github.com/riccardopreite/SRAE_model).
 
 ## Interests 🌱
 In the last period I have started to study many different fields: First I discovered the AI world, thanks also to the double degree program accomplished at [University of Bielefeld](https://www.uni-bielefeld.de/(en)/), to learn new techniques to use for future project. During the first year of master program I started research about sustainable argument, like Agenda2030 and its applications, and now I moved my sight to learn some frontend framework, like Vue.js. I want to use these three main fields: AI, sustainable and Vue.js to create new mash-up programs that allow users to query AI model, mainly about sustainable projects, by a simple and clean web interface.
