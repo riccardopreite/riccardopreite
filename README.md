@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello everyone 👋 and welcome to my GitHub profile!
 
-My name is Riccardo Preite and I have an IT degree at [University of Bologna](https://www.unibo.it/en).
+My name is Riccardo Preite and I have a master’s degree in computer science at [University of Bologna](https://www.unibo.it/en) with a double degree program in Artificial Intelligence at [University of Bielfeld](https://www.uni-bielefeld.de/).
 
 ## Thesis ☁️♻️
 - Bachelor: Design and development of an architecture to publish èweb things+(https://www.w3.org/WoT/) from API and manipulate existing Things to create personal programs: [Open-API-WoT-Architecture](https://github.com/riccardopreite/Open-API-WoT-Architecture).
