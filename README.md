@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 My name is Riccardo Preite and I have an IT degree at [University of Bologna](https://www.unibo.it/en).
 
-## Thesis 🔭
-- Bachelor: Design and development of an architecture to publish web things from API and manipulate existing Things to create personal programs: [Open-API-WoT-Architecture](https://github.com/riccardopreite/Open-API-WoT-Architecture).
+## Thesis ☁️♻️
+- Bachelor: Design and development of an architecture to publish èweb things+(https://www.w3.org/WoT/) from API and manipulate existing Things to create personal programs: [Open-API-WoT-Architecture](https://github.com/riccardopreite/Open-API-WoT-Architecture).
 - Master: Design and development of a Deep Neural Network feeded with [UNSDGs](https://unsdg.un.org/) data to compute the [SDI](https://www.sustainabledevelopmentindex.org/about) and make prediction of UNSDGs for a sustainable development: [SRAE](https://github.com/riccardopreite/SRAE_model).
 
 ## Interests 🌱
